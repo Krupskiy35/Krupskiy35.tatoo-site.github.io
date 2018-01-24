@@ -3,4 +3,4 @@ Author: Krupskiy Andrey
 
 Cross-browser compatibility: IE9+.
 
-The template uses a Less with Less syntax and project structure with source code in the directory / and production folder dist/, that contains ready project with optimized HTML, CSS, JS and images.
+The template uses a Less with Less syntax and project was built with the help of the webpack assembler, that contains ready project with optimized HTML, CSS, JS and images.
