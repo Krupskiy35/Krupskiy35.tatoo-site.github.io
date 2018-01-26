@@ -16,19 +16,19 @@ assets - directory for storage of asets - image fonts usage example look in comm
 
 
 src<br>
-.
-|
+.<br>
+|<br>
 ├──index - page index.html and all that apply to it<br>
-|   |
+|   |<br>
 |   +-- scripts - scripts must be imported into index.js<br>
 |   +-- styles - styles must be imported into index.less<br>
 |   +-- index.html - main document html, home page of your site<br>
 |   +-- index.js - the main file js, the entire script that refers to this page is imported into this file (from the scripts directory)<br>
 |   +-- index.less - main style file<br>
 +- common - the directory where you store the common files for all pages of your site, for example, styles and scripts to use, you need to put in the main file of the pages to look at index / index.less<br>
-    |
+    |<br>
     +- scripts<br>
-    |
+    |<br>
     +- styles <br>    
     
     
