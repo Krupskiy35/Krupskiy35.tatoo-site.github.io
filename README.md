@@ -6,9 +6,9 @@ Cross-browser compatibility: IE9+.
 The template uses a Less with Less syntax and project was built with the help of the webpack assembler, that contains ready project with optimized HTML, CSS, JS and images.
 
 
-1.npm install
-2.npm start-command that will start the dev server, it is necessary to compile less / ES6 files
-3.Go to the browser at http: // localhost: 8080
+1.npm install <br>
+2.npm start-command that will start the dev server, it is necessary to compile less / ES6 files<br>
+3.Go to the browser at http: // localhost: 8080<br>
 4.To stop the server in the console (terminal), press CTRL + C twice. If there are compilation errors, there will be red error messages in the terminal, at the very beginning of the message it is described quite precisely what went wrong, pay attention to it. Also, in case of problems with the assembly, please apply a screenshot with the text of the console error
 
 File structure
